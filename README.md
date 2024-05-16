@@ -1,2 +1,3 @@
 # azcfg-lab
-Demo project for trying out the azcfg go module
+
+Demo project for trying out the [github.com/KarlGW/azcfg](https://github.com/KarlGW/azcfg) go module
